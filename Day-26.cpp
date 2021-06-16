@@ -17,7 +17,7 @@ int main()
     }
     else if(year1>year2)
     {
-        fine = (year1-year2)*10000;
+        fine = 10000;
     }
     else
     {
